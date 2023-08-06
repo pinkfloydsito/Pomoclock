@@ -1,10 +1,0 @@
-
-main.c,208
-struct Screen_size3,30
-  int height;5,51
-  int width;6,65
-typedef struct { int x,8,81
-typedef struct { int x, y;8,81
-typedef struct { int x, y; } xy_t;8,81
-static void activate 11,118
-int main 21,512
